@@ -5,7 +5,7 @@ go 1.23.0
 require (
 	github.com/jackc/pgx/v5 v5.7.6
 	github.com/rabbitmq/amqp091-go v1.10.0
-	github.com/rs/zerolog v1.32.0
+	github.com/rs/zerolog v1.34.0
 	github.com/samber/do/v2 v2.0.0
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.18.2
